@@ -1,4 +1,4 @@
-Version 1 (6 August 2017)
+Version 1
 
 PROJECT SPECIFICATIONS
 
